@@ -1,0 +1,9 @@
+node_modules/
+.env
+vendor/
+composer.lock
+*.log
+.DS_Store
+uploads/
+config/db.php
+
